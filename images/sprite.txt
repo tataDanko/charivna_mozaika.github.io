@@ -1,0 +1,220 @@
+.bg-address {
+    width: 19px; height: 32px;
+    background: url('css_sprites.png') -1594px -582px;
+}
+
+x
+.bg-f {
+    width: 11px; height: 22px;
+    background: url('css_sprites.png') -1618px -514px;
+}
+
+x
+.bg-vk {
+    width: 25px; height: 15px;
+    background: url('css_sprites.png') -1594px -614px;
+}
+
+x
+.bg-biscuit {
+    width: 25px; height: 25px;
+    background: url('css_sprites.png') -1598px -489px;
+}
+
+x
+.bg-biscuit_1 {
+    width: 44px; height: 43px;
+    background: url('css_sprites.png') -1286px -1094px;
+}
+
+x
+.bg-flag {
+    width: 94px; height: 56px;
+    background: url('css_sprites.png') -1480px -699px;
+}
+
+x
+.bg-star {
+    width: 59px; height: 32px;
+    background: url('css_sprites.png') -1561px -999px;
+}
+
+x
+.bg-new {
+    width: 114px; height: 105px;
+    background: url('css_sprites.png') -1480px -545px;
+}
+
+x
+.bg-cherry {
+    width: 44px; height: 47px;
+    background: url('css_sprites.png') -1242px -1094px;
+}
+
+x
+.bg-kubok {
+    width: 64px; height: 53px;
+    background: url('css_sprites.png') -1561px -840px;
+}
+
+x
+.bg-kolpak {
+    width: 56px; height: 58px;
+    background: url('css_sprites.png') -1561px -893px;
+}
+
+x
+.bg-heart {
+    width: 56px; height: 50px;
+    background: url('css_sprites.png') -1574px -699px;
+}
+
+x
+.bg-raw {
+    width: 70px; height: 58px;
+    background: url('css_sprites.png') -1546px -755px;
+}
+
+x
+.bg-cup {
+    width: 206px; height: 21px;
+    background: url('css_sprites.png') -1353px -1052px;
+}
+
+x
+.bg-candy {
+    width: 44px; height: 49px;
+    background: url('css_sprites.png') -1198px -1094px;
+}
+
+x
+.bg-biscuit_ac {
+    width: 37px; height: 37px;
+    background: url('css_sprites.png') -1594px -545px;
+}
+
+x
+.bg-mail {
+    width: 28px; height: 12px;
+    background: url('css_sprites.png') -1594px -629px;
+}
+
+x
+.bg-pfone {
+    width: 20px; height: 27px;
+    background: url('css_sprites.png') -1598px -514px;
+}
+
+x
+.bg-arrow_l_c {
+    width: 32px; height: 31px;
+    background: url('css_sprites.png') -1598px -427px;
+}
+
+x
+.bg-book_mark_1 {
+    width: 147px; height: 49px;
+    background: url('css_sprites.png') -1480px -650px;
+}
+
+x
+.bg-arrow_l {
+    width: 17px; height: 13px;
+    background: url('css_sprites.png') -1613px -582px;
+}
+
+x
+.bg-arrow_r {
+    width: 17px; height: 13px;
+    background: url('css_sprites.png') -1613px -595px;
+}
+
+x
+.bg-arrow_r_c {
+    width: 32px; height: 31px;
+    background: url('css_sprites.png') -1598px -458px;
+}
+
+x
+.bg-book_mark_4 {
+    width: 66px; height: 64px;
+    background: url('css_sprites.png') -1480px -755px;
+}
+
+x
+.bg-biscuit_soc {
+    width: 49px; height: 48px;
+    background: url('css_sprites.png') -1561px -951px;
+}
+
+x
+.bg-book_mark_2 {
+    width: 155px; height: 42px;
+    background: url('css_sprites.png') -1198px -1052px;
+}
+
+x
+.bg-line {
+    width: 45px; height: 8px;
+    background: url('css_sprites.png') -1480px -819px;
+}
+
+x
+.bg-biscuit_plus {
+    width: 118px; height: 118px;
+    background: url('css_sprites.png') -1480px -427px;
+}
+
+x
+.bg-book_mark_3 {
+    width: 39px; height: 194px;
+    background: url('css_sprites.png') -1522px -840px;
+}
+
+x
+.bg-book_mark_5 {
+    width: 181px; height: 245px;
+    background: url('css_sprites.png') -887px -1186px;
+}
+
+x
+.bg-bicycle {
+    width: 311px; height: 346px;
+    background: url('css_sprites.png') -887px -840px;
+}
+
+x
+.bg-cheese {
+    width: 887px; height: 637px;
+    background: url('css_sprites.png') -0 -0;
+}
+
+x
+.bg-book {
+    width: 744px; height: 427px;
+    background: url('css_sprites.png') -887px -0;
+}
+
+x
+.bg-egs {
+    width: 655px; height: 844px;
+    background: url('css_sprites.png') -0 -637px;
+}
+
+x
+.bg-frame {
+    width: 593px; height: 413px;
+    background: url('css_sprites.png') -887px -427px;
+}
+
+x
+.bg-mailing {
+    width: 324px; height: 212px;
+    background: url('css_sprites.png') -1198px -840px;
+}
+
+x
+.bg-man {
+    width: 204px; height: 323px;
+    background: url('css_sprites.png') -655px -637px;
+}
